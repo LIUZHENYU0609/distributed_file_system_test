@@ -1,0 +1,1 @@
+/usr/bin/g++  -pthread -fPIC -lrt -g CMakeFiles/copy_file.dir/copy_file.cpp.o -o copy_file 
