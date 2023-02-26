@@ -1,1 +1,1 @@
-/usr/bin/g++  -pthread -fPIC -lrt -g CMakeFiles/large_file_write_once_test.dir/large_file_write_once_test.cpp.o -o large_file_write_once_test 
+/usr/bin/g++  -pthread -fPIC -lrt -g CMakeFiles/large_file_write_once_test.dir/large_file_write_once_test.cpp.o -o large_file_write_once_test   -L/usr/local/lib64  -Wl,-rpath,/usr/local/lib64 -lcfs 

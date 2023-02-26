@@ -92,6 +92,7 @@ large_file_write_once_test_EXTERNAL_OBJECTS =
 
 large_file_write_once_test: CMakeFiles/large_file_write_once_test.dir/large_file_write_once_test.cpp.o
 large_file_write_once_test: CMakeFiles/large_file_write_once_test.dir/build.make
+large_file_write_once_test: /usr/local/lib64/libcfs.so
 large_file_write_once_test: CMakeFiles/large_file_write_once_test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzy/code/test_c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable large_file_write_once_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/large_file_write_once_test.dir/link.txt --verbose=$(VERBOSE)
