@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.23)
-project(test)
+project(distributed_file_system_test)
 set(CMAKE_CXX_STANDARD 11)
 
 #连接pthread
