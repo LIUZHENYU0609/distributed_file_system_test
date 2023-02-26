@@ -1,1 +1,0 @@
-/usr/bin/c++  -pthread -fPIC -lrt CMakeFiles/large_file_write_once_test.dir/large_file_write_once_test.cpp.o -o large_file_write_once_test 

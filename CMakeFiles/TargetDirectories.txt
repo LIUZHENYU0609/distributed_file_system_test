@@ -1,4 +1,0 @@
-/home/lzy/code/test_c/CMakeFiles/copy_file.dir
-/home/lzy/code/test_c/CMakeFiles/large_file_write_once_test.dir
-/home/lzy/code/test_c/CMakeFiles/edit_cache.dir
-/home/lzy/code/test_c/CMakeFiles/rebuild_cache.dir
