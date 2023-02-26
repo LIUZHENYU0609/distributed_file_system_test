@@ -4,7 +4,7 @@
 c语言测试脚本仓库 large_file_write_once.cpp: 测试向cubefs中写入大文件，并且一次性将文件数据写入
 
 # 安装教程
-mkdir build
+mkdir build \
 cd build
 cmake ..
 make
